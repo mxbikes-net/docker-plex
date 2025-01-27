@@ -1,0 +1,26 @@
+Session name: AKIT v OEM \ NCK | Krazy Koko
+Admin password: 961
+Max clients: 69
+Bandwidth: very low
+Location: ATX
+Results exported to C:\Users\alexa\Desktop\MX Bikes Server\serverexport\
+Waiting - [8:52 26/1]
+Conditions: Clear
+Air Temperature: 25 C
+==============================
+Track: Slabz - Supercoop MX 2024 - Afternoon/Rough
+Category: AK MX1/MX1 OEM/AK MX2/MX2 OEM
+Quick Race
+Warmup: 40 min
+Race: 2 min + 2 laps
+Sunny conditions
+Connection: 961 Alex Nagy | mxbikes.net GUID: FF0110000113DDAC31 - [8:57 26/1]
+Clients: 1
+Warmup: In Progress - [8:57 26/1]
+Conditions: Clear
+Air Temperature: 25 C
+Warmup: Complete
+Race2: Pre-Start - [9:37 26/1]
+Conditions: Clear
+Air Temperature: 25 C
+Race2: Pre-Start - [9:37 26/1]
